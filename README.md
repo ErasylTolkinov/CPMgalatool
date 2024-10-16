@@ -1,42 +1,23 @@
-# CarParkingTool
+1. pkg update 
 
-<h3>CarParkingToolr is a tool made to modify Car Parking Multiplayer accounts with no root or vertual app.</h3>
-<h4>you just need an Access Key, wich you can get from <a href="https://t.me/cpmgalabot">@cpmgalabot</a> for free with 1K Credits Balance.</h4>
+2. pkg upgrade -y
 
+3. pkg install git
 
-#### Tested on:
-- IPhone (**ish**).
-- Android (**Termux**).
-- Windows
-- Linux
+4. pkg install python-pip
 
-## Installation
-[don't know how to install python ?](#install-python)
-```
-https://github.com/CPMgalatool/CPMgalatool.git
-```
-```
-cd CPMgala
-```
-```
-pip install requirements.txt
-```
-```
-python main.py
-```
+5. git clone https://github.com/CPMgalatool/CPMgalatool.git
 
-## install python
+6. cd CPMgalatool
 
-- ### Termux
-    - `pkg update`
-    - `pkg install python`
-    - `pkg install python-pip`
+7. git pull
 
-- ### Linux
-    - `sudo apt install python`
-    - `sudo apt install python-pip`
+8. python3 -m pip install requests
 
-- ### Windows
-    - Download python3 form [python.org](https://www.python.org/downloads/).
-    - if **pip** is not in **PATH** use: `py -3 -m pip install -r requirements.txt`
-    - `py -3 main.py`
+9. pkg i python-numpy
+
+10. pip install rich --upgrade
+
+11. pip install -r requirements.txt
+
+12. python main.py

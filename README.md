@@ -13,13 +13,13 @@
 ## Installation
 [don't know how to install python ?](#install-python)
 ```
-git clone https://github.com/CuHDuKaT/CarParkingTool.git
+https://github.com/CPMgalatool/CPMgalatool.git
 ```
 ```
-cd CPMNuker
+cd CPMgala
 ```
 ```
-pip install -r requirements.txt
+pip install requirements.txt
 ```
 ```
 python main.py

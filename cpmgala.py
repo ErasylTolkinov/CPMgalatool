@@ -2,10 +2,10 @@ import requests
 # import json
 from time import sleep
 
-# Copyright (C) Anasov <me@anasov.ly> - All Rights Reserved
+# Copyright (C) TG:@GALA_CPM <tg:@gala_original> - All Rights Reserved
 # Unauthorized copying of this file, via any medium is strictly prohibited
 # Proprietary and confidential
-# Written by Anasov <me@anasov.ly>, 05, May, 2024.
+# Written by @gala_original <tg:@gala_original>, 05, May, 2024.
 
 BASE_URL: str = "https://red-viper-815239.hostingersite.com/api"
 

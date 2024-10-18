@@ -2,7 +2,7 @@ import requests
 # import json
 from time import sleep
 
-# Copyright (C) TG:@GALA_CPM <tg:@gala_original> - All Rights Reserved
+# Copyright (C) TG:@cpmgala <tg:@gala_original> - All Rights Reserved
 # Unauthorized copying of this file, via any medium is strictly prohibited
 # Proprietary and confidential
 # Written by @gala_original <tg:@gala_original>, 05, May, 2024.

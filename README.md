@@ -1,23 +1,56 @@
-1. pkg update 
+# CarParking1Tool
 
-2. pkg upgrade -y
+<h3>CarParking1Tool is a tool made to modify Car Parking1 Multiplayer accounts with no root or vertual app.</h3>
+<h4>you just need an Access Key, wich you can get from <a href="https://t.me/cpmgalabot">@cpmgalabot</a> for free with 1K Credits Balance.</h4>
 
-3. pkg install git
 
-4. pkg install python-pip
+#### Tested on:
+- IPhone (**ish**).
+- Android (**Termux**).
+- Windows
+- Linux
 
-5. git clone https://github.com/CPMgalatool/CPMgalatool.git
+## Installation
+[don't know how to install python ?](#install-python)
+```
+pkg update
 
-6. cd CPMgalatool
+pkg upgrade -y
 
-7. git pull
+pkg install git
 
-8. python3 -m pip install requests
+pkg install python-pip
 
-9. pkg i python-numpy
+git clone https://github.com/CPMgalatool/CPMgalatool.git
 
-10. pip install rich --upgrade
+cd CPMgalatool
 
-11. pip install -r requirements.txt
+git pull
 
-12. python main.py
+python3 -m pip install requests
+
+pkg i python-numpy
+
+pip install rich --upgrade
+
+pip install -r requirements.txt
+
+python main.py
+
+```
+
+## install python
+
+- ### Termux
+    - `pkg update`
+    - `pkg install python`
+    - `pkg install python-pip`
+
+- ### Linux
+    - `sudo apt install python`
+    - `sudo apt install python-pip`
+
+- ### Windows
+    - Download python3 form [python.org](https://www.python.org/downloads/).
+    - if **pip** is not in **PATH** use: `py -3 -m pip install -r requirements.txt`
+    - `py -3 main.py`

@@ -36,7 +36,6 @@ pip install rich --upgrade
 pip install -r requirements.txt
 
 python main.py
-
 ```
 
 ## install python

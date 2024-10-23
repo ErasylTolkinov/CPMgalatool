@@ -6,7 +6,7 @@
 
 #### Tested on:
 - IPhone (**ish**).
-- Android (**Termux**).
+- Android (**Termux*).
 - Windows
 - Linux
 
